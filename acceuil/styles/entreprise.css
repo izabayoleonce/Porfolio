@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+}
+nav{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    align-items: center;
+    border-bottom: 5px solid #6f6f6f;
+    background-image: url(../image/imgdev.jpeg);
+    background-size: cover;
+}
+nav.navbar h4{
+    color: rgb(240, 239, 239);
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+.nav-link{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    border-bottom: 1px solid white;
+    margin-right: 3px ;
+}
+.nav-item:hover a{
+    letter-spacing: 2px;
+    background-color:rgb(233, 183, 76);
+    color: #000;
+}
+
+.navcd .nav-link{
+    color: #000;
+}
+
+.navcd .nav-link:hover{
+    background-color: azure;
+    border-bottom: 3px solid blue;
+}
+
+.header{
+    color: rgb(7, 7, 7);
+}
+.main{
+    display: block;
+}
+footer{
+    background: #6f6f6f;
+    top: 1000px;
+    text-align: center;
+    height: 30px;
+    display:flex;
+
+}
+footer a{
+    margin: 20px;
+    margin-top: 0px;
+    text-align: center;
+}
+/*nav.navbar ul li.bouton{
+    list-style-type:none ;
+    font: optional;
+    font-size: larger;
+    background-color:currentColor;
+    background-clip: none;
+    nav-down: inherit;
+    nav-index: initial;
+    nav-left: inherit;
+    nav-right: current;
+    nav-up: inherit;
+    display: inline-block;
+    color: aliceblue;
+
+}
+nav.navbar ul li.bouton a{
+    color: tomato;
+    text-decoration: whitesmoke;
+    background-color: gray;
+    padding: 10px;
+
+}
+nav.navbar ul li.bouton:hover a{
+color: rgb(198, 40, 40);
+background-color: black;
+}*/
+@media screen and (max-width:680px) {
+     nav .onglets {
+        margin-left: 0px;
+        margin-bottom: 20px;
+    }
+    .main .card {
+        margin: 10px;
+    }
+    .main .content .card .right img{
+        height:200px;
+        width: 100%;
+        margin-top: -0px;
+    }
+    .main .content .card{
+        display: block;
+    }
+    footer{
+        padding: 30px;
+    }
+}

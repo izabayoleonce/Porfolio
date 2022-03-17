@@ -1,0 +1,223 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Montserrat', sans-serif;
+    background-color: black;
+    position: relative;
+    height: 100%;
+}
+nav{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content: left;
+    align-items: center;
+    border-bottom: 5px solid #6f6f6f;
+    background-image: url(../image/imgdev.jpeg);
+    background-size: cover;
+}
+nav.navbar h4{
+    color: rgb(250, 249, 246);
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+    border-bottom: 1px solid white;
+    margin-right: 3px ;
+}
+.nav-item:hover a{
+    letter-spacing: 2px;
+    background-color:rgb(233, 183, 76);
+    color: #000;
+}
+.pres{
+    background-image: url(./../image/moi.jpeg);
+    background-size: cover;
+    height: 1000px;
+   /* background-position: center;*/
+
+}
+
+main{
+    display: flex;
+    align-items: left;
+    justify-content: space-between;
+    background-size: cover;
+    background-size: cover;
+    color: #fff;
+    padding: 160px;
+    margin-top: 300px;
+    left: 20px;
+}
+main h1{
+    font-family: 'Playfair Display', serif;
+    font-size: 50px;
+}
+main h4{
+    margin-top: 10px;
+    font-size: 20px;
+    text-align: center;;
+}
+
+main li{
+    list-style: none;
+    margin: 10px;
+}
+main p span{
+    font-size: 17px;
+    color: #999;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    flex: content;
+    text-align: justify;
+}
+.description a{
+    border: 1px solid;
+    margin-top: 20px;
+    text-decoration: 0;
+    text-transform: uppercase;
+    font-size: 14px;
+    padding: 10px 20px;
+    transition: 0.5s;
+}
+.description a:hover{
+    letter-spacing: 1px;
+}
+.left{
+    margin-left: -100px;
+}
+.right{
+    width: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    right: 100px;
+}
+.right img{
+    height: 500px;
+}
+.propo{
+    display: block;
+    height: 50px;
+    list-style: none;
+}
+.conteneur{
+    display: flex;
+    flex: content;
+    /*flex-wrap: wrap;*/
+    width: 100%;
+    justify-content: space-around;
+    margin: 1px ;
+    height: 450px;
+}
+.conteneur h4{
+    padding: 0px 0px 15px 20pxs;
+    font-family: 'MonteCarlo', cursive;
+    margin: 20px;
+}
+.conteneur ul span{
+    position: absolute;
+    /*top: 50%;
+    left: 50%;*/
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    list-style: none;
+    opacity: 1;
+    padding: 5px 0px 20px 5px;
+    text-decoration: #f7f3f3;
+    
+}
+.conteneur ul span li{
+    text-decoration: none;
+    text-transform: none;
+    color: #f7f3f3;
+    font-family: "didotBold";
+    font-size: 4rem;
+    opacity: 0.8;
+    -webkit-transition: 0.5;
+    transition: 0.5;
+}
+footer{
+    background: #6f6f6f;
+    top: 1500px;
+    text-align: center;
+    height: 30px;
+    display:flex;
+    
+
+}
+footer a{
+    margin: 20px;
+    margin-top: 0px;
+    text-align: center;
+}
+.bio{
+    display: block;
+    flex: content;
+    border:2px solid black ;
+}
+/*nav.navbar ul li.bouton{
+    list-style-type:none ;
+    font: optional;
+    font-size: larger;
+    background-color:currentColor;
+    background-clip: none;
+    nav-down: inherit;
+    nav-index: initial;
+    nav-left: inherit;
+    nav-right: current;
+    nav-up: inherit;
+    display: inline-block;
+    color: aliceblue;
+
+}
+nav.navbar ul li.bouton a{
+    color: tomato;
+    text-decoration: whitesmoke;
+    background-color: gray;
+    padding: 10px;
+
+}
+nav.navbar ul li.bouton:hover a{
+color: rgb(198, 40, 40);
+background-color: black;
+}*/
+@media screen and (max-width:680px) {
+    body{
+        border: #000;
+        top: 100px;
+    }
+     nav .onglets {
+        margin-left: 0px;
+        margin-bottom: 20px;
+        display: none;
+    }
+    .left{
+        background-color: rgba(0, 0, 0, 0.8);
+        width: 100%;
+        padding: 30px;
+    }
+    .left{
+        font-size: 25px;
+    }
+    .left p{
+        font-size: 12px;
+    }
+    .right{
+        z-index: -1;
+        position: absolute;
+        height: 100%;
+        width: 100%;
+        top: 0;
+        left: 0;
+
+    }
+    footer{
+        padding: 30px;
+    }
+}
