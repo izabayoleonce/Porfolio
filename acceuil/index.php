@@ -46,7 +46,8 @@
         </h1>
         <h4>Napoléon Bonaparte</h4>
 
-        <p> <span>Je suis Leonce développeur web ,</span> <span>étudiant en Brevet de Technitien Superieur je développe des sites vivants et intéractifs pour rendre les utilisateurs </span><span> et moi-même le plus satisfait possible.</span>  😬</p>
+        <p> <span>Je suis Leonce développeur web ,</span> <span>étudiant en Brevet de Technitien Superieur je développe des sites vivants et intéractifs pour </span>
+        <span>rendre les utilisateurs  et moi-même le plus satisfait possible.</span>  😬</p>
 
         <a  type="button" href="./document/Leonce_IZABAYO_CV.pdf" class="btn btn-outline-success">Mon Cv</a>
     </div>
@@ -57,7 +58,8 @@
             <ul>
               <h4>competance</h4>
                 <li> <span>Intégration</span> Html </li>
-                <li><span>Développement</span>  JQuery / PHP</li>
+                <li><span>Développement</span>  JQuery / PHP/C#</li>
+                <li><span>Base de donnée</span>  SQL</li>
             </ul>
       </div>
       <div class="experience">
@@ -71,7 +73,7 @@
     </div>
   </div>
   <div class="right">
-      <img src="image/moi.png" alt="" srcset="">
+      <span><br><img src="image/moi.png" alt="" srcset=""></br></span>
   </div>
 
   

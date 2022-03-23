@@ -5,35 +5,43 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: 'Montserrat', sans-serif;
+    /* background-color: black; */
+    position: relative;
+    height: 100%;
 }
 nav{
     display:flex;
     flex-wrap:wrap;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
     border-bottom: 5px solid #6f6f6f;
     background-image: url(../image/imgdev.jpeg);
     background-size: cover;
+    background-position: center;
 }
 nav.navbar h4{
-    color: rgb(240, 239, 239);
+    color: rgb(255, 248, 248);
     font-family: 'Playfair Display', serif;
     font-size: 30px;
 }
 .nav-link{
     text-decoration: none;
     color: rgb(255, 255, 255);
-    border-bottom: 1px solid white;
+    border-bottom: 0px solid white;
+    
+    border-right: none ;
     margin-right: 3px ;
 }
+
 .nav-item:hover a{
     letter-spacing: 2px;
-    background-color:rgb(233, 183, 76);
+    background-color:#c0e9f5;
     color: #000;
 }
 
 .navcd .nav-link{
     color: #000;
+    
 }
 
 .navcd .nav-link:hover{

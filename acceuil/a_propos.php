@@ -63,7 +63,7 @@
     </p>
   </div>
   <embed src="./document/Annexe-6-1-Tableau-de-synthese-Epreuve-E4-BTS-SIO-2022 (1) (1).pdf" width="1000px" height="1000px">
-  </br><a type="button" href="./document/LEONCE_IZABAYO_CV.pdf" class="btn btn-outline-success">Mon Cv</a>
+  </br><a type="button" href="./document/Leonce_IZABAYO_CV.pdf" class="btn btn-outline-success">Mon Cv</a>
   </br><a href="porfolio.php">Page Précedente</a>
   <footer>
     <a href="tel:+330676770328"> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-telephone-fill" viewBox="0 0 16 16">

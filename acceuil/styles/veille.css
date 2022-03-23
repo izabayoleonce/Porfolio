@@ -5,15 +5,18 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: 'Montserrat', sans-serif;
+    position: relative;
+    height: 100%;
 }
 nav{
     display:flex;
     flex-wrap:wrap;
-    justify-content: center;
+    justify-content: left;
     align-items: center;
     border-bottom: 5px solid #6f6f6f;
     background-image: url(../image/imgdev.jpeg);
     background-size: cover;
+    background-position: center;
 }
 nav.navbar h4{
     color: rgb(248, 246, 246);
@@ -28,7 +31,7 @@ nav.navbar h4{
 }
 .nav-item:hover a{
     letter-spacing: 2px;
-    background-color:rgb(233, 183, 76);
+    background-color:#c0e9f5;
     color: #000;
 }
 

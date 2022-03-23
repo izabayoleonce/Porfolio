@@ -17,25 +17,38 @@ nav{
     border-bottom: 5px solid #6f6f6f;
     background-image: url(../image/imgdev.jpeg);
     background-size: cover;
+    background-position: center;
 }
 nav.navbar h4{
-    color: rgb(250, 249, 246);
+    color: rgb(255, 248, 248);
     font-family: 'Playfair Display', serif;
     font-size: 30px;
 }
 .nav-link{
     text-decoration: none;
-    color: white;
-    border-bottom: 1px solid white;
+    color: rgb(255, 255, 255);
+    border-bottom: 0px solid white;
+    
+    border-right: none ;
     margin-right: 3px ;
 }
+
 .nav-item:hover a{
     letter-spacing: 2px;
-    background-color:rgb(233, 183, 76);
+    background-color:#c0e9f5;
     color: #000;
 }
+
+.navcd .nav-link{
+    color: #000;
+    
+}
+
+.navcd .nav-link:hover{
+    background-color: azure;
+    border-bottom: 3px solid blue;
+}
 .pres{
-    background-image: url(./../image/moi.jpeg);
     background-size: cover;
     height: 1000px;
    /* background-position: center;*/
@@ -93,10 +106,9 @@ main p span{
 .right{
     width: 40px;
     display: flex;
-    align-items: center;
     justify-content: center;
     height: 100%;
-    right: 100px;
+    right: 150px;
 }
 .right img{
     height: 500px;
@@ -187,7 +199,7 @@ nav.navbar ul li.bouton:hover a{
 color: rgb(198, 40, 40);
 background-color: black;
 }*/
-@media screen and (max-width:680px) {
+@media screen and (max-width:686px) {
     body{
         border: #000;
         top: 100px;
@@ -219,5 +231,6 @@ background-color: black;
     }
     footer{
         padding: 30px;
+        top: 2000px;
     }
 }

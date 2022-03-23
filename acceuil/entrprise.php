@@ -52,16 +52,13 @@
         <div class="navcd">
           <ul class="nav nav-tabs">
             <li class="nav-item">
-              <a class="nav-link active" aria-current="page" href="#">Active</a>
+              <a class="nav-link active" aria-current="page" href="#">Presentation</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
+              <a class="nav-link" href="#">Information</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="#">Link</a>
-            </li>
-            <li class="nav-item">
-              <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Disabled</a>
+              <a class="nav-link" href="#" tabindex="-1" aria-disabled="true">Contact</a>
             </li>
           </ul>
 
@@ -72,15 +69,32 @@
         <div class="left">
           <div class="teaser">
             <div class="coordonne">
-              <p> <span>0678217876</span><i class="bi bi-telephone"></i></p>
-            </div>
+              <p> <span>0678217876</span></p>
+              <p> <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-geo-alt-fill" viewBox="0 0 16 16">
+                  <path d="M8 16s6-5.686 6-10A6 6 0 0 0 2 6c0 4.314 6 10 6 10zm0-7a3 3 0 1 1 0-6 3 3 0 0 1 0 6z"/>
+                  </svg>  <span>31 Rue Paris, 06000 Nice</span></p>
+            </div>          
           </div>
         </div>
-        <div class="rigth">
-          <div class="maps"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2884.293029086484!2d7.264378515343635!3d43.70445907911971!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cddaa81960cafb%3A0xea2f207dec1ed4a9!2s31%20Rue%20de%20Paris%2C%2006000%20Nice!5e0!3m2!1sfr!2sfr!4v1645006731382!5m2!1sfr!2sfr" width="600" height="450" right="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe></div>
-        </div>
-      </div>
 
+        <div class="row">
+          <div class="col-md-6 col-md-push-6">
+            <div class="coord-head marg-btm-s">
+              <h3 class="" >information</h3>
+            </div>
+            <div class="panier-principal"> 
+              <h5><br>information sur L'entreprise</br></h5>
+            </div>
+            <div class="panier-second">
+            <h5><br>Information sur le stage</br></h5>
+          </div>
+          </div>
+          
+
+          <div class="col-md-6 col-md-pull-6">
+           <div class="maps"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2884.293029086484!2d7.264378515343635!3d43.70445907911971!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x12cddaa81960cafb%3A0xea2f207dec1ed4a9!2s31%20Rue%20de%20Paris%2C%2006000%20Nice!5e0!3m2!1sfr!2sfr!4v1645006731382!5m2!1sfr!2sfr" width="600" height="450" right="350" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+          </div>
+        </div>
     </section>
   </div>
 
