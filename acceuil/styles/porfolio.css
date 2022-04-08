@@ -5,7 +5,6 @@ body{
     margin: 0px;
     padding: 0px;
     font-family: 'Montserrat', sans-serif;
-    background-color: black;
     position: relative;
     height: 100%;
 }
@@ -26,11 +25,12 @@ nav.navbar h4{
 }
 .nav-link{
     text-decoration: none;
-    color: rgb(255, 255, 255);
+    color: #000;
     border-bottom: 0px solid white;
-    
+    background-color: rgba(255, 255, 255, 0.7);
     border-right: none ;
     margin-right: 3px ;
+    border-radius: 190px;
 }
 
 .nav-item:hover a{
@@ -61,9 +61,7 @@ main{
     justify-content: space-between;
     background-size: cover;
     background-size: cover;
-    color: #fff;
     padding: 160px;
-    margin-top: 300px;
     left: 20px;
 }
 main h1{
@@ -87,6 +85,11 @@ main p span{
     margin-bottom: 30px;
     flex: content;
     text-align: justify;
+}
+
+.description{
+    background-color: #000;
+    color: #fff;
 }
 .description a{
     border: 1px solid;
@@ -154,12 +157,79 @@ main p span{
     -webkit-transition: 0.5;
     transition: 0.5;
 }
+.entreprise .header-main-infos{
+    text-align: center;
+    text-transform: uppercase;
+}
+.entreprise .header-main-infos .nom{
+    color: radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, #9b36b7 85%, #515ecf);
+    text-shadow: radial-gradient(circle at 33% 100%, #fed373 4%, #f15245 30%, #d92e7f 62%, #9b36b7 85%, #515ecf);
+    font-size: 30px;
+}
+
+.veille{
+    text-align: justify;
+    margin: auto;
+    display: inline;
+}
+.ref_veille{
+    background-color: #263326;
+    border: #d92e7f;
+
+}
+.ref_veille a {
+    text-decoration: none;
+    text-transform: none;
+
+}
+
+.projet{
+    align-items: center;
+    background-size: cover;
+    background-size: cover;
+    background-size: cover;
+    padding: 16px;
+    margin-top: 30px;
+    width: 100%;
+    background-color: rgb(255, 255, 255);
+    height: 920px;
+    display: block;
+}
+.projet #legend{
+    color: aliceblue;
+}
+.a_propos{
+    display: inline;
+    flex: content;
+
+}
+
+.a_propos #bio{
+    display: flex;
+    flex: content;
+    /*flex-wrap: wrap;*/
+    width: 100%;
+    justify-content: space-around;
+    margin: 1px ;
+    height: 450px;
+}
+.a_propos .conteneur{
+    margin-top: 10%;
+    margin: auto;
+}
+.a_propos .conteneur h2{
+    background-color: #332F2E;
+    color: azure;
+    border: rgb(255, 255, 255);
+    text-align: center;
+}
 footer{
     background: #6f6f6f;
-    top: 1500px;
+    /* top: 1500px; */
     text-align: center;
     height: 30px;
-    display:flex;
+    display:block;
+    position: 1500px relative;
     
 
 }
@@ -167,6 +237,7 @@ footer a{
     margin: 20px;
     margin-top: 0px;
     text-align: center;
+    color: #43325C;
 }
 .bio{
     display: block;
