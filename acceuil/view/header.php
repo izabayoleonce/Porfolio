@@ -1,47 +1,34 @@
 <!DOCTYPE html>
 <html lang="fr">
+
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
-    <link rel="stylesheet" href="styles/porfolio.css">
-    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
+
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="./styles/vendor/aos/aos.css" rel="stylesheet">
+  <link href="./styles/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="./styles/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="./styles/vendor/boxicons/css/boxicons.min.css" rel="stylesheet">
+  <link href="./styles/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="./styles/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="./styles/css/style.css" rel="stylesheet">
+  <!-- favicone -->
+  <!-- =======================================================
+  * Template Name: MyResume - v4.7.0
+  * Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
 </head>
-<body>
-<nav class="navbar navbar-light bg-light">
-  <h4>Leonce IZABAYO</h4>
-  <div class="container">
-    <ul class="nav justify-content-end">
-      <li class="nav-item">
-        <a class="nav-link" href="./index.php">Acceuil</a>
-      </li>
-      <li class="nav-item dropdown">
-            <a  class="nav-link " href="./a_propos.php">Mon Profile</a>>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link" href="./entrprise.php">Mon Entreprise</a>
-      </li>
-      <li class="nav-item ">
-        <a class="nav-link " href="./Projet.php" role="button" aria-expanded="true">projet</a>
-      </li>
-      <li class="nav-item">
-        <a class="nav-link " href="./veille.php" tabindex="-1" aria-disabled="true">Ma veille</a>
-      </li>
-    </ul>
-    <div id="advertissement_borwser" style="
-    position: fixed;
-    display: block;
-    top: 0.25rem;
-    right: 0.25rem;
-    background-color: rgba(0,0,0,0.6);
-    border: 1px solid rgba(0,0,0,1);
-    color: white;
-    padding: 1rem;
-    border-radius: 0.3rem;
-    ">
-      Site fonctionnant non compatible avec Edge &lt;= 90
-    </div>
-  </div>
-</nav>
