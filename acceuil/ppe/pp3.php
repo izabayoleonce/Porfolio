@@ -71,7 +71,7 @@
               <ul>
                 <li><strong>Categorie</strong>: Web </li>
                 <li><strong>Client</strong>: Maison des ligue</li>
-                <li><strong>Project date</strong>: 01 March, 2020</li>
+                <li><strong>Project date</strong>: 31 Janvier 2022</li>
                 <li><strong>URL du Project </strong>: <a class="btn btn-dark" href="http://51.178.86.117:8083/PPE/ppe2">Acceder</a></li>
               </ul>
             </div>

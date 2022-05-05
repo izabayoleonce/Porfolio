@@ -70,7 +70,7 @@
               <ul>
                 <li><strong>Category</strong>: Web design</li>
                 <li><strong>Client</strong>: ASU Company</li>
-                <li><strong>Project URL</strong>: <a href="#">www.example.com</a></li>
+                <li><strong>Project URL</strong>: <a class="btn btn-success" href="./Horloge/index.html">www.example.com</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
