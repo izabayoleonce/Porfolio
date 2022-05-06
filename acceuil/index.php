@@ -437,7 +437,7 @@
                 <p>M2L</p>
                 <div class="portfolio-links">
                   <a href="https://alexcarmona42.files.wordpress.com/2014/06/mdl.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="M2L"><i class="bx bx-plus"></i></a>
-                  <a href="./ppe/pp3.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="M2L"><i class="bx bx-link"></i></a>
+                  <a href="./ppe/pp3.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="M2L" target='_blank'><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -451,7 +451,7 @@
                 <p>AppTicket</p>
                 <div class="portfolio-links">
                   <a href="https://defrancevalentin.files.wordpress.com/2013/05/gsb.png?w=339&h=217" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE 2"><i class="bx bx-plus"></i></a>
-                  <a href="./ppe/ppe2.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="./ppe/ppe2.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details" ><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -478,7 +478,7 @@
                 <h4>PPE 1</h4>
                 <p>Frais de déplacement</p>
                 <div class="portfolio-links">
-                  <a href="https://www.duo-solutions.fr/wp-content/uploads/2017/03/fiscal_mars2017.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Frais de déplacement"><i class="bx bx-plus"></i></a>
+                  <a href="https://www.duo-solutions.fr/wp-content/uploads/2017/03/fiscal_mars2017.jpg" <!--data-gallery="portfolioGallery"--> class="portfolio-lightbox" title="Frais de déplacement"><i class="bx bx-plus"></i></a>
                   <a href="./ppe/ppe1.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
