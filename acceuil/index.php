@@ -399,7 +399,7 @@
 
         <div class="section-title">
           <h2>Portfolio</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
+          <p>Pour le bon derolement de Notre formation nous avons realiser plusieur formation</p>
         </div>
 
         <div class="row">
@@ -423,7 +423,7 @@
                 <p>GSBCR</p>
                 <div class="portfolio-links">
                   <a href="./image/ppe4/ppe42.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="GSBCR"><i class="bx bx-plus"></i></a>
-                  <a href="./ppe/ppe4.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="GSBCR"><i class="bx bx-link"></i></a>
+                  <a href="./ppe/ppe4.php"   title="GSBCR"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -437,7 +437,7 @@
                 <p>M2L</p>
                 <div class="portfolio-links">
                   <a href="https://alexcarmona42.files.wordpress.com/2014/06/mdl.png" data-gallery="portfolioGallery" class="portfolio-lightbox" title="M2L"><i class="bx bx-plus"></i></a>
-                  <a href="./ppe/pp3.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="M2L" target='_blank'><i class="bx bx-link"></i></a>
+                  <a href="./ppe/pp3.php"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -451,7 +451,7 @@
                 <p>AppTicket</p>
                 <div class="portfolio-links">
                   <a href="https://defrancevalentin.files.wordpress.com/2013/05/gsb.png?w=339&h=217" data-gallery="portfolioGallery" class="portfolio-lightbox" title="PPE 2"><i class="bx bx-plus"></i></a>
-                  <a href="./ppe/ppe2.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details" ><i class="bx bx-link"></i></a>
+                  <a href="./ppe/ppe2.php"   title="Portfolio Details" ><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -465,7 +465,7 @@
                 <p>Horloge</p>
                 <div class="portfolio-links">
                   <a href="https://www.wallpapersdsc.net/wp-content/uploads/2017/04/Clock-Computer-Backgrounds.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Horloge"><i class="bx bx-plus"></i></a>
-                  <a href="./ppe/projet-perso.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="./ppe/projet-perso.php"   title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -478,8 +478,8 @@
                 <h4>PPE 1</h4>
                 <p>Frais de déplacement</p>
                 <div class="portfolio-links">
-                  <a href="https://www.duo-solutions.fr/wp-content/uploads/2017/03/fiscal_mars2017.jpg" <!--data-gallery="portfolioGallery"--> class="portfolio-lightbox" title="Frais de déplacement"><i class="bx bx-plus"></i></a>
-                  <a href="./ppe/ppe1.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="https://www.duo-solutions.fr/wp-content/uploads/2017/03/fiscal_mars2017.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Frais de déplacement"><i class="bx bx-plus"></i></a>
+                  <a href="./ppe/ppe1.php"   title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -493,7 +493,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="styles/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
-                  <a href="./portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="./portfolio-details.php"   title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -507,7 +507,7 @@
                 <p>Card</p>
                 <div class="portfolio-links">
                   <a href="styles/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
-                  <a href="./portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="./portfolio-details.php"   title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -521,7 +521,7 @@
                 <p>Card</p>
                 <div class="portfolio-links">
                   <a href="styles/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
-                  <a href="./portfolio-details.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="./portfolio-details.php"   title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
@@ -535,7 +535,7 @@
                 <p>BDE</p>
                 <div class="portfolio-links">
                   <a href="./image/stage/represe.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
-                  <a href="./ppe/stage.php" class="portfolio-details-lightbox" data-glightbox="type: external" title="Portfolio Details"><i class="bx bx-link"></i></a>
+                  <a href="./ppe/stage.php"   title="Portfolio Details"><i class="bx bx-link"></i></a>
                 </div>
               </div>
             </div>
