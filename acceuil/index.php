@@ -46,7 +46,7 @@
         <div class="section-title">
           <h2>A Propos</h2>
           <h3>Formation</h3>
-          <p>Je fais une formation en SLAM, je compte devenir un informaticien complet en poursuivant aprés le BTS une licence en infromatique générale afin d'integrer un Masters en ingenierie du Smart Bulding. Alors je souhaite integrer une ecole d'ingenier informatioque</p>
+          <p>Je fais une formation en SLAM, je compte devenir un informaticien complet en poursuivant après le BTS une licence en informatique générale afin d'intégrer un master en ingénierie du Smart building. Alors je souhaite intégrer une école d'ingénier informatique</p>
         </div>
 
         <div class="row">
@@ -56,7 +56,7 @@
           <div class="col-lg-8 pt-4 pt-lg-0 content">
             <h3> En ce qui me concerne</h3>
             <p class="fst-italic">
-            Je suis etudiant en BTS SIO; j'ai 21 ans, je suis passionné par l'informatique et les film d'action
+            Je suis étudiant en BTS SIO; j'ai 21 ans, je suis passionné par l'informatique et les films d'action
             </p>
             <div class="row">
               <div class="col-lg-6">
@@ -74,8 +74,8 @@
               </div>
             </div>
             <h3>Metier</h3>
-            <p>
-            Je vise à m'integer dans les systeme embarquer et/ou la domatique, cars je suis curieur de connaitre les relation que homme aurant avec les inteligence artificielle dans l'avenire et je serais au premier loge pour le voir en étant dans dans ce secteur.
+            <p class="fst-italic">
+            Je vise à m'integer dans les systèmes embarqués et/ou la domotique, cars je suis curieux de connaitre les relations que l'homme aura avec les intelligences artificielles dans l'avenir et je serais au premier loge pour le voir en étant dans ce secteur.
             </p>
           </div>
           <a class="btn cvleo" href="./document/Leonce_IZABAYO_CV.pdf"><i class="bx bx-news"></i>CV</a>
@@ -139,8 +139,8 @@
               <div class="panier-principal"> 
                 <h5><br>information sur L'entreprise</br></h5>
                 <p><span> CD MEDIA, est une PME sous la forme d’une Société à responsabilité limitée (sans autre indication) créée le 30/11/2013.</span>
-                <span>L’établissement est spécialisé en Programmation informatique et son effectif est compris entre Etablissement non employeur (pas de salarié au cours de l'année de référence et pas d'effectif au 31/12).</span> 
-                <span>CD MEDIA se trouve dans la commune de Nice dans le département Alpes Maritimes (06)</span></p>
+                <span>L'établissement est spécialisé en Programmation informatique et son effectif est compris entre Etablissement non employeur (pas de salarié au cours de l'année de référence et pas d'effectif au 31/12).</span> 
+                <span>CD MEDIA se trouve dans la commune de Nice dans le département Alpes-Maritimes (06)</span></p>
               </div>
               <div class="panier-second">
                 <h5><br>Information sur le stage</br></h5>
@@ -799,32 +799,6 @@
 
           </div>
 
-          <div class="col-lg-8 mt-5 mt-lg-0">
-
-            <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-              <div class="row">
-                <div class="col-md-6 form-group">
-                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
-                </div>
-                <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="email" class="form-control" name="email" id="email" placeholder="Your Email" required>
-                </div>
-              </div>
-              <div class="form-group mt-3">
-                <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
-              </div>
-              <div class="form-group mt-3">
-                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit">Envoyer</button></div>
-            </form>
-
-          </div>
 
         </div>
 
