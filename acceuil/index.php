@@ -162,7 +162,7 @@
         </div>
     </section><!-- End Facts Section -->
 
-    <!-- ======= Skills Section ======= -->
+    <!-- ======= logiciel/competence Section ======= -->
     <section id="skills" class="skills section-bg">
       <div class="container" data-aos="fade-up">
 
@@ -542,6 +542,12 @@
           </div>
 
         </div>
+        <div class="container tableau-synthese">
+          <div class="bouton">
+            <a href="./document/Annexe-6-1-Tableau-de-synthese-Epreuve-E4-BTS-SIO-2022.pdf" class="btn btn-dark">Mon Tableau de synthèse</a>
+          </div>
+
+        </div>
 
       </div>
     </section><!-- End Portfolio Section -->
@@ -639,7 +645,9 @@
                 <div class="accordion-body">
                   <p>
                     <img src="image/language/Java.jpg" alt=""  width="700" height="324">
-                      <p> Depuis sa création au milieu des années 90, </p>
+                      <p class="text-content"> Le langage Java a toujours été l'un des langages de programmation les plus populaires depuis sa création au milieu des années 1990. 30 ans plus tard, c'est toujours un langage de programmation de premier plan : Java est en fait le langage natif d'Android, la plate-forme mobile la plus utilisée au monde.  Avec 2,3 milliards d'appareils mobiles exécutant le système d'exploitation Android, Java est extrêmement populaire et  de nombreuses grandes entreprises utilisent Java pour construire leurs applications. 
+                        Raisons de sa popularité :  grande portabilité (grâce à la machine virtuelle Java), indépendance de la plate-forme Cela signifie que Java peut être exécuté sur presque n'importe quel système. Il est également hautement évolutif, ce qui le rend populaire auprès des grandes entreprises et des nouvelles startups. Java est un langage à typage statique, il est donc rapide, facile à entretenir et comporte moins de bogues. Il est également rétrocompatible, ce qui signifie que des versions plus anciennes  du langage sont utilisées. 
+                        Il continue de fonctionner sans problème même lorsque de nouvelles versions sont publiées. Il réécrit le code  chaque fois qu'une nouvelle version est publiée. Java est un langage populaire hier et aujourd'hui, et sa grande communauté  garantit sa popularité dans le futur.Codeur.com propose des liens vers plus de 16 000 développeurs Java indépendants. Trouvez le prestataire dont vous avez besoin en déposant gratuitement votre projet  sur la plateforme. </p>
                   </p>
                 </div>
               </div>
@@ -655,7 +663,14 @@
                 <div class="accordion-body">
                   <p>
                     <img src="image/language/Python.png" alt="" width="700" height="324">
-                    <p></p>
+                    <p>Python a été lancé à l’cause en 1991 et a mis du moment à encaisser ses adeptes. Ces dernières années ont néanmoins vu un bruit entre le hiérarchie de Python, en longue couplet souplesse à ses latitudes entre instigateur learning, la instruction des hasard, et entre l’discernement artificielle. 
+                      Langage plurivalent de faîte niveau, Python trouve des utilisations entre la production d’applications web, l’introversion de hasard et le progiciel d’algorithmes.  Il possède une phonétique possible à user et met l’tonalité sur la accessibilité et la virginité du code : ceci en fiction un prétendant mandement parmi les développeurs rudimentaires, en notoire iceux-ci-là qui souhaitent broder agissements entre l’discernement artificielle. 
+                      Python a la amalgame d’dépendre foncièrement acceptable et efficace. Sa garantie et son rendement le rendent pince-fesses aubeaucoup contre des grandes sociétés que des start-ups. Plusieurs bibliothèques Python sont à la proclamation des développeurs : ces bibliothèques permettent d’appuyer diverses services entre le milieu de la building d’algorithmes d’IA et de la by-pass aux API.  De principalement, il peut dépendre accablé parmi mécaniser certaines activités, spécialement certaines services quotidiennes chronophages.
+                      Enfin, Python peut comme dépendre accablé parmi le progiciel web. En effet, il est fréquemment accablé parmi le web scraping et tout sujet qui pourrait aliter des heures à transcoder en PHP ne prendra que varié minutes rebrousse-poil Python.  Le localité web Reddit, par exemple, est fait via Python.
+                      La terroir foncièrement affairée de Python est la étrenne obstiné de la enrichissement de ce langue. Elle encan des conseils sur les bonnes tâches et des solutions de dépannage, aux rudimentaires entre aux experts.
+                      Pour cette raison, Python est inspiré entre le « langue de aménagement grande personne à la enrichissement la principalement rapide ». Avec des applications entre certaines des technologies en farcie enrichissement et pendant les principalement passionnantes, les développeurs qui connaissent Python trouveront subitement des débouchés entre le Big Data, l’IA, la télématique ou la cybersécurité.  Ces technologies devenant omniprésentes, il vaut la spleen d’suborner des compétences en Python dès maintenant.
+                      Des développeurs Python sont disponibles sur Codeur.com. Déposez votre séparation et trouvez un freelance subitement
+                    </p>
                   </p>
                 </div>
               </div>
@@ -671,7 +686,9 @@
                 <div class="accordion-body">
                   <p>
                     <img src="image/language/c++.png" alt="" width="700" height="324">
-                    <p></p>
+                    <p>Bien qu'il ne soit pas le langage de programmation le plus simple pour un débutant,  C++ est essentiel dans de nombreux domaines : par exemple, certains systèmes d'exploitation sont construits sur ce langage de programmation.  Vous pouvez le trouver dans une  variété de logiciels, tels que le navigateurs Web,  systèmes de distribution,  logiciels de base de données,  jeux vidéo et bien plus encore. C est un langage de programmation procédural à  usage général. 
+                      Il est étroitement lié au matériel et vous permet de gérer les données système et la programmation de bas niveau. Non seulement vous pouvez l'utiliser pour créer des "programmes" logiciels, mais vous pouvez également développer des programmes au niveau du pilote ou du noyau.Plus de 10 000 développeurs C/C++ sont inscrits sur Codeur.com. Trouvez rapidement un développeur C/C++ disponible  en publiant votre projet  maintenant
+                    </p>
                   </p>
                 </div>
               </div>
