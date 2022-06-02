@@ -51,16 +51,13 @@
               <div class="swiper-wrapper align-items-center">
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-1.jpg" alt="">
+                  <img src="../image/stage/Home.png" alt="">
                 </div>
 
                 <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-2.jpg" alt="">
+                  <img src="../image/stage/represe.jpg" alt="">
                 </div>
 
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/portfolio-details-3.jpg" alt="">
-                </div>
 
               </div>
               <div class="swiper-pagination"></div>
@@ -75,6 +72,7 @@
                 <li><strong>Client</strong>: BDE </li>
                 <li><strong>Project date</strong>: 28 Février 2022</li>
                 <li><strong>Project URL</strong>: <a class="btn btn-outline-warning" href="http://51.178.86.117:8083/stage/bde/">Acceder</a></li>
+                <li><strong>Fiche Synoptique</strong>: <a class="btn btn-outline-warning" href="../document/Stage.pdf" rename="Leonce_Izabayo_Stage_FicheSynoptiquee..pdf" >Voir</a></li>
               </ul>
             </div>
             <div class="portfolio-description">

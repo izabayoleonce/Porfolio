@@ -54,7 +54,7 @@
                   <img src="../image/perso/heure.png" alt="">
                 </div>
 
-                <div class="swiper-slide">
+                <!-- <div class="swiper-slide">
                   <img src="../image/perso/" alt="">
                 </div>
 
@@ -64,7 +64,7 @@
 
               </div>
               <div class="swiper-pagination"></div>
-            </div>
+            </div> -->
           </div>
 
           <div class="col-lg-4">
