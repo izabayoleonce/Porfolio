@@ -77,7 +77,7 @@
                 <li><strong>Projet date</strong>: 1 décembre 2021</li>
                 <li><strong>Projet</strong>: <li><a class="btn btn-success" href="./ppe4/Leonce_Izabayo_GSCR_Source_Code.zip" download="Leonce_Izabayo_GSBCR_Source_Code.zip">Télécharger le code source</a></li>
                 <li><a class="btn btn-success" href="./ppe4/Leonce_Izabayo_GSCR_Bin.zip"> Télécharger de Bin </a></li></li>
-                <li><strong>Projet</strong>: <li><a class="btn btn-success" href="../document/PPE4_FicheSynoptique.pdf" >Voir</a></li>
+                <li><strong>Fiche synoptique </strong>: <li><a class="btn btn-success" href="../document/PPE4_FicheSynoptique.pdf" >Voir</a></li>
               </ul>
             </div>
             <div class="portfolio-description">
